@@ -8,4 +8,6 @@ create remote depository on site
 
 git remote add origin git@github.com:shurajan/test1.git
 
+git commit -m "instruction"
 
+git push --set-upstream origin main
